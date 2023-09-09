@@ -68,6 +68,8 @@ img {
 .qrcard__img {
     border-radius: 0.85rem;
     overflow: hidden;
+    display: grid;
+    place-content: center;
 }
 
 .qrcard__img img {
